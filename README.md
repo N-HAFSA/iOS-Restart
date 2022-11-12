@@ -1,6 +1,6 @@
-start date: 08/11/2022
-delivered: 08/11/2022
-link: [Senha Forte](https://devpoli.notion.site/Senha-Forte-70dabbd87d2242d6aa7dedfa2121480f)
+start date: 08/11/2022<br />
+delivered: 08/11/2022<br />
+link: [Senha Forte](https://devpoli.notion.site/Senha-Forte-70dabbd87d2242d6aa7dedfa2121480f)<br />
 
 ## Descrição
 
